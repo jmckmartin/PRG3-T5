@@ -17,5 +17,5 @@ cache:
 deploy:
   provider: heroku
   api_key: 027ea31f-db23-4157-aabc-02a4b79e99e9
-  app: jmckmartin-http-servlet
+  app: prg3-t5
   skip_cleanup: true
